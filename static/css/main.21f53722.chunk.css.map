@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,cACE,wBAAA,CAGF,kBACE,iBAAA,CAGF,MACE,oBAAA,CACA,iBAAA,CACA,UAAA","file":"main.21f53722.chunk.css","sourcesContent":[".selectedGood {\n  background-color: greenyellow;\n}\n\n.buttonVisibility {\n  visibility: hidden;\n}\n\n.good {\n  display: inline-block;\n  margin-bottom: 4px;\n  width: 80px;\n}\n"]}
